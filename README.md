@@ -8,7 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-2.0-orange)
 ![Transformers](https://img.shields.io/badge/transformers-4.28.1-yellow)
 ![Diffusers](https://img.shields.io/badge/diffusers-0.16.1-blue)
-<a href="https://colab.research.google.com/drive/1taxmzRBMBnRxlt857gFCRYqP05Dadqnh?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://huggingface.co/spaces/innat/Ukiyolator" target="_parent"><img src="https://img.shields.io/badge/gradio-Open%20in%20HuggingFace-orange" alt="Open In Gradio"/></a>
+
 
   
 ## 🤖 Model
